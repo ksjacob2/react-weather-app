@@ -14,6 +14,11 @@ export default function App() {
             rel="noreferrer"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and
+          <a href="https://magenta-lokum-85e3e7.netlify.app/">
+            {" "}
+            hosted on Netlify{" "}
           </a>
         </footer>
       </div>
